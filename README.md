@@ -1,10 +1,10 @@
-# SkillsIt Junior 2024 🏆💻
+# Skills Junior 2024 🏆💻
 
-> Webfejlesztő feladatok - SkillsIt Junior 2024 verseny 2. forduló
+> Webfejlesztő feladatok - Skills Junior 2024 verseny 2. forduló
 
 ## 🎯 Projekt célja
 
-Ez a repository a [**SkillsIt Junior 2024**](https://www.linkedin.com/posts/http-alap%C3%ADtv%C3%A1ny_skillsit-juniorskills2024-httpalapitvany-activity-7183126229829439489-pGPE/) versenysorozat webfejlesztő kategóriájának **2. fordulójához** készült. A feladat gyakorlati webfejlesztési kihívások megoldása volt időkorlátos versenyhelyzetben.
+Ez a repository a [**Skills Junior 2024**](https://www.linkedin.com/posts/http-alap%C3%ADtv%C3%A1ny_skillsit-juniorskills2024-httpalapitvany-activity-7183126229829439489-pGPE/) versenysorozat webfejlesztő kategóriájának **2. fordulójához** készült. A feladat gyakorlati webfejlesztési kihívások megoldása volt időkorlátos versenyhelyzetben.
 
 ## 🏅 Eredmény
 
@@ -29,9 +29,9 @@ A projekt során gyakoroltam:
 
 ## 📚 A versenyről
 
-### Mi a SkillsIt Junior?
+### Mi a Skills Junior?
 
-"A **SkillsIt Junior** (korábban Junior Skills) egy rangos nemzeti versenysorozat, amely a **WorldSkills Hungary** program része. A verseny 18 év alatti középiskolások számára szervezett, ahol a legtehetségesebb fiatal fejlesztők mérik össze tudásukat."
+> A **Skills Junior** egy rangos nemzeti versenysorozat, amely a **WorldSkills Hungary** program része. A verseny 18 év alatti középiskolások számára szervezett, ahol a tehetséges fiatal diákok mérik össze tudásukat.
 
 ### Verseny menete
 
@@ -46,12 +46,6 @@ Ez egy lezárt verseny projekt, amely a SkillsIt Junior 2024 középdöntőjére
 ***
 
 **Státusz:** ✅ Befejezett
-
----
-
-## 💭 Megjegyzések
-
-Ez a SkillsIt Junior 2024 webfejlesztő kategória 2. fordulójának beadása volt. A SkillsIt Junior Magyarország legnagyobb középiskolás webfejlesztő versenye.
 
 ---
 
