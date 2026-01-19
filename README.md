@@ -41,7 +41,7 @@ A projekt során gyakoroltam:
 
 ## 🤝 Közreműködés
 
-Ez egy lezárt verseny projekt, amely a SkillsIt Junior 2024 középdöntőjére készült.
+Ez egy lezárt verseny projekt.
 
 ***
 
