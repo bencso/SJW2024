@@ -39,11 +39,11 @@ A projekt során gyakoroltam:
 2. **Középdöntő (2. forduló)** - Gyakorlati kódolási feladatok
 3. **Országos döntő** - Élő verseny
 
-## 🤝 Közreműködés
+## 📄 Licensz
 
-Ez egy lezárt verseny projekt.
+MIT License - Szabadon használható és módosítható
 
-***
+---
 
 **Státusz:** ✅ Befejezett
 
